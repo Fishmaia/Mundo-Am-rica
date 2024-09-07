@@ -1,6 +1,6 @@
 # Mundo América: Um Guia Interativo para Explorar o Continente
 
-## Descrição
+## Um projeto de Imersão Dev com Google Gemini
 Este projeto web oferece uma plataforma para pesquisar e aprender sobre países da América, continentes do mundo e estados brasileiros. A aplicação permite que os usuários encontrem informações relevantes através de uma interface intuitiva de busca.
 
 ## Funcionalidades
