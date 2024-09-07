@@ -473,4 +473,10 @@ let dados = [
         link: "https://pt.wikipedia.org/wiki/Havaí",
         tags: "pais america américa"
     },
+    {
+        "titulo": "Estados Unidos",
+        "descricao": "Os Estados Unidos da América são uma nação multicultural e diversa, composta por 50 estados e diversos territórios. Com uma história rica e complexa, o país oferece uma variedade de paisagens, desde as montanhas Rochosas até as praias da Califórnia. Grandes cidades como Nova York e Los Angeles são centros culturais e financeiros, enquanto parques nacionais como Yellowstone e Yosemite preservam a beleza natural do país. A cultura americana é uma fusão de tradições europeias, africanas e nativas americanas, resultando em uma rica tapeçaria de costumes, culinária e música. Os Estados Unidos são um destino popular para turistas do mundo inteiro, que vêm para conhecer seus monumentos históricos, parques temáticos e paisagens deslumbrantes.",
+        "link": "https://pt.wikipedia.org/wiki/Estados_Unidos",
+        "tags": "pais america norte"
+    }
 ];
